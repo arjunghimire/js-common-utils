@@ -6,7 +6,7 @@ Js Utils is a common javascript utility function use frequently in web developme
 
 You can install using the following command
 
-```
+```bash
 npm install js-utils
 or
 yarn install js-utils
@@ -16,13 +16,12 @@ yarn install js-utils
 
 - Capitalize
 
-```
-import { capitalize } from "js-utils"
+```js
+import { capitalize } from 'js-utils';
 
-capitalize.letter("hello world") // Hello world
+capitalize.letter('hello world'); // Hello world
 
-capitalize.words("hello world") // Hello World
-
+capitalize.words('hello world'); // Hello World
 ```
 
 ## Support
