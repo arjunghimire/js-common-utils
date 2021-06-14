@@ -7,9 +7,9 @@ Js Utils is a common javascript utility function use frequently in web developme
 You can install using the following command
 
 ```bash
-npm install js-utils
+npm install tiny-js-utils
 or
-yarn install js-utils
+yarn install tiny-js-utils
 ```
 
 ## Examples
@@ -17,7 +17,7 @@ yarn install js-utils
 - Capitalize
 
 ```js
-import { capitalize } from 'js-utils';
+import { capitalize } from 'tiny-js-utils';
 
 capitalize.letter('hello world'); // Hello world
 
@@ -26,8 +26,8 @@ capitalize.words('hello world'); // Hello World
 
 ## Support
 
-Please [open an issue](https://github.com/arjunghimire/js-utils/issues/new) for support.
+Please [open an issue](https://github.com/arjunghimire/tiny-js-utils/issues/new) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/arjunghimire/js-utils/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/arjunghimire/tiny-js-utils/compare/).
